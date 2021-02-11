@@ -25,7 +25,6 @@ app.use(cors())
 // DB Config
 const connection_url = process.env.MONGO_URL
 
-console.log(connection_url)
 mongoose.connect(connection_url, {
     useCreateIndex: true,
     useNewUrlParser: true,
