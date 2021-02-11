@@ -49,7 +49,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Configure app
 
-Open `.env` then edit it with your settings. You will need:
+Create `.env` then edit it with your settings. You will need:
 
 - MONGO_URL
 - PUSHER_APP_ID
