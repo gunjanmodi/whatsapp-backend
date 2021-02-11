@@ -49,7 +49,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Configure app
 
-Create `.env` then edit it with your settings. You will need:
+Create `.env` file then edit it with your settings. You will need:
 
 - MONGO_URL
 - PUSHER_APP_ID
@@ -60,5 +60,3 @@ Create `.env` then edit it with your settings. You will need:
 ## Running the project
 
     $ npm start
-
-> > > > > > > 202f836 (Adding readme file)
